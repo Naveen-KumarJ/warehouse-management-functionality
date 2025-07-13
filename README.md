@@ -15,7 +15,7 @@ A React-based warehouse management system that allows users to view, search, fil
 
 ## 🔗 Live Demo
 
-[Listing Screenshot](./screenshots/listing.png)
+> [Live Demo Link](https://warehouse-management-functionality.vercel.app/)
 ---
 
 ## 🛠️ Tech Stack
